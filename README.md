@@ -219,30 +219,6 @@ The project improved my ability to think beyond dashboard visuals and focus on r
 
 ---
 
-## Screenshots
-
-### Financial View
-
-![Financial View](images/financial-view.png)
-
-### Supply Chain View
-
-![Supply Chain View](images/supply-chain-view.png)
-
-### Sales View
-
-![Sales View](images/sales-view.png)
-
-### Product / Marketing View
-
-![Product View](images/product-view.png)
-
-### Data Model
-
-![Data Model](images/data-model.png)
-
----
-
 ## What I Learned
 
 Through this project, I learned how to:
